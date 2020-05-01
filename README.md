@@ -12,7 +12,7 @@ The Scoop site will allows users to:
 
 
 ## How To Begin
-Git `clone` the repo. 
+Git `clone` the repo. Then `cd` into project folder.
 
 To start your server, run `npm install` and then `node server.js` from the root directory of this project.
 
