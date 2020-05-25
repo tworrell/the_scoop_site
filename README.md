@@ -11,6 +11,11 @@ The Scoop site will allows users to:
 - View all of a user’s articles and comments
 
 
+
+> ![screenshot](scoop.png)
+
+
+
 ## How To Begin
 Git `clone` the repo. Then `cd` into project folder.
 
